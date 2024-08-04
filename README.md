@@ -4,8 +4,8 @@
 제55회 한국정보통신학회 춘계종합학술대회에서 발표된 논문 및 포스터 자료입니다.
 
 ### 저자
-- 김지예, 한국성서대학교
-- 김원빈, 한국성서대학교 (교신저자)
+- Jiye Kim, Korean Bible University
+- Wonvin Kim*, Korean Bible University
 
 ### 초록
 **목적:**  
