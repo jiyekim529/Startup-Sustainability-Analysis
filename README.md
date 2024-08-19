@@ -25,7 +25,7 @@
 ### 수상 내역
 <details>
  <summary>**학생우수논문상** </summary>
-  [학생우수 제24-88호](https://github.com/user-attachments/files/16656360/24-88.pdf)
+  ![학생우수 제24-88호](https://github.com/user-attachments/files/16656360/24-88.pdf)
   - *제55회 한국정보통신학회 춘계종합학술대회* - *2024년*  
   - 발표 논문: *창업 기업의 지속 가능성 강화를 위한 데이터 분석 방법론 제안*  
   - 포스터: *창업 기업의 지속 가능성 강화를 위한 데이터 분석 방법론 제안*
